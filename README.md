@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a computer scientist and software engineer with experience in architecting and developing software in areas ranging from embedded to full-stack web applications. I have a deep understanding of networking protocols, Cloud computing, service provisioning, and system hardening. I earned my bachelor's degree from Universidad de Colima, and my master's from Tecnológico de Monterrey, a top 200 worldwide ranked university. Both in computer science. I am conversant in the English language.
+
 <!--
 **ismaelamezcua/ismaelamezcua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
